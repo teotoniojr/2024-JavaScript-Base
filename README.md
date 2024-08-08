@@ -9,3 +9,9 @@ Projeto desenvolvido para compreenção dos conceitos básicos da linguagem de p
 - Number, String e Boolean;
 - Algumas situações extras;
 
+## Aula 2 - 08/08/2024
+
+- Tipos de variáveis;
+- Valorres verdadeiros e falsos (truly e falsy)
+- Valores nulos e indefinidos e suas diferenças
+- Conversões implícitas e explícitas;
