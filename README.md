@@ -17,7 +17,7 @@ Projeto desenvolvido para compreenção dos conceitos básicos da linguagem de p
 - Valores nulos e indefinidos e suas diferenças
 - Conversões implícitas e explícitas;
 
-### Aula 3 - 07/08/2024
+## Aula 3 - 07/08/2024
 
 - Características principais do JavaScript;
 - JavaScript para backend (nodeJS);
@@ -25,7 +25,7 @@ Projeto desenvolvido para compreenção dos conceitos básicos da linguagem de p
 - Valor ternário;
 - Template string;
 
-### Aula 4 - 08/08/2024
+## Aula 4 - 08/08/2024
 
 - Funções e suas características;
 - Parâmetros;
