@@ -23,3 +23,10 @@ Projeto desenvolvido para compreenção dos conceitos básicos da linguagem de p
 - Indicações que os erros apontam;
 - Valor ternário;
 - Template string;
+
+### Aula 4 - 08/08/2024
+
+- Funções e suas características;
+- Parâmetros;
+- Função expressão;
+- Função Flecha
