@@ -12,6 +12,6 @@ Projeto desenvolvido para compreenção dos conceitos básicos da linguagem de p
 ## Aula 2 - 08/08/2024
 
 - Tipos de variáveis;
-- Valorres verdadeiros e falsos (truly e falsy)
+- Valores verdadeiros e falsos (truly e falsy)
 - Valores nulos e indefinidos e suas diferenças
 - Conversões implícitas e explícitas;
