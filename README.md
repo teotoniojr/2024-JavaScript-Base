@@ -9,9 +9,17 @@ Projeto desenvolvido para compreenção dos conceitos básicos da linguagem de p
 - Number, String e Boolean;
 - Algumas situações extras;
 
-## Aula 2 - 08/08/2024
+## Aula 2 - 07/08/2024
 
 - Tipos de variáveis;
 - Valores verdadeiros e falsos (truly e falsy)
 - Valores nulos e indefinidos e suas diferenças
 - Conversões implícitas e explícitas;
+
+### Aula 3 - 07/08/2024
+
+- Características principais do JavaScript;
+- JavaScript para backend (nodeJS);
+- Indicações que os erros apontam;
+- Valor ternário;
+- Template string;
