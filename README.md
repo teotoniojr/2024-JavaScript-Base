@@ -1,4 +1,4 @@
-# <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> Aula de fundamentos de JavaScript para back-end 
+# <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> Base de JavaScript para back-end 
 
 
 Projeto desenvolvido para compreenção dos conceitos básicos da linguagem de programação JavaScript
