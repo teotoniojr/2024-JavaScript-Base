@@ -85,6 +85,13 @@ console.log(numeroNumber == numeroString)
 console.log(numeroNumber === numeroString)
 console.log(numeroNumber + numeroString)
 
+// == só compara o valor
+// === compara o valor e o tipo de dado
+
+//typeof
+console.log(typeof numeroNumber)
+console.log(typeof numeroString)
+
 // conversão explícita
 //Number()
 //String()
